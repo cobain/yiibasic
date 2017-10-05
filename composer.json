@@ -20,7 +20,8 @@
         "yiisoft/yii2-swiftmailer": "~2.0.0",
         "yiisoft/yii2-apidoc": "~2.1.0",
         "yiisoft/yii2-smarty": "~2.0.0",
-        "yiisoft/yii2-twig": "~2.0.0"
+        "yiisoft/yii2-twig": "~2.0.0",
+        "yiisoft/yii2-redis": "~2.0.0"
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.0.0",
